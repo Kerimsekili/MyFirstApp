@@ -1,14 +1,12 @@
 ﻿using System;
 
-namespace DegerVeReferansTipler
+namespace ClassMethodDemo
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
-
-            
+           
         }
     }
 }
