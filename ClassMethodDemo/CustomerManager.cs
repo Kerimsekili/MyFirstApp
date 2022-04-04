@@ -19,6 +19,7 @@ namespace ClassMethodDemo
             foreach (Customer customer in customers)
             {
                 Console.WriteLine("Customer Listed ! ");
+                
             }
                 
         }
