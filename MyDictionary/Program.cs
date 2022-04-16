@@ -20,9 +20,6 @@ namespace MyDictionary
             {
                 Console.WriteLine(item);
             }
-
-            Console.WriteLine(myDictionary.Count);
-            Console.ReadLine(); 
         }
     }
 }
