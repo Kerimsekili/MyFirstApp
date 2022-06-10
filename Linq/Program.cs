@@ -23,7 +23,7 @@ namespace LinqProject
                 new Product {ProductId = 5, CategoryId = 2, ProductName = "Samsung Phone", QuantityPerUnit = "2GB Ram", UnitPrice = 7500, UnitInStock = 35}
 
             };
-            //AnyTest(products);
+            //AnyTest(products); 
             //lambda
             //FindTest(products);
 
